@@ -24,7 +24,6 @@ Folgende Prinzipien stellen die Grundlagen jeder fragilen Softwareentwicklung da
 * Reagieren auf Veränderung ist besser als jede Form von Plänen.
 * Selbstbestimmtes Handeln ist besser als die Kommunikation mit anderen Personen.
 * Möglicherweise falsche Anforderungen umzusetzen ist besser als überhaupt keine Anforderungen zu haben.
-* Aleatorik (von lat. alea „Würfel, Risiko, Zufall“) hat immer Vorrang vor systematischen Vorgehen.
 
 ## Regeln
 Während Prinzipien eher ein Gefühl vermitteln sollen, sind Regeln in jedem Fall einzuhalten und Verletzungen mit voller Härte zu begegnen.
