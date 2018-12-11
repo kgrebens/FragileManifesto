@@ -71,6 +71,15 @@ Es wird nach jedem Projekt ein Lessons Learned durchgeführt.
 ### Wiki
 ...
 
+###
+Dokumentation
+*	Es gibt keine Dokumentation
+*	Sofern es doch Dokumentation gibt, dann hat diese eine definierte Form und einen komplexen Entstehungs- und Freigabeprozess einzuhalten.
+** Dokumente haben mindestens 50 Seiten
+** Es müssen umfangreiche Reviews und Freigabetermine abgehalten werden, wo Mängel erkannt, aber nicht dokumentiert werden
+** Jedes Dokument muss folgende Kapitel aufweisen und detailliert beschreiben: Wirtschaftliche Notwendigkeit, Nachhaltigkeit, Auswirkungen auf andere Projekte, Risikobeschreibung etc.
+
+
 ### E-Mail Thread
 Unter voller Ausnutzung von Funktionen wie CC und BCC, sorgt der E-Mail Thread für einen einheitlichen Broadcast von Informationen an jeden den es interessieren könnte. Hierzu sind folgende Verhaltensregeln einzuhalten:
 * Um einen Fork des Threads zu vermeiden muss immer in einheitlichen Zeitabstand und niemals parallel geantwortet werden.
